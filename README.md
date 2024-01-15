@@ -3,7 +3,7 @@
 **To begin with, you will have to enable USB Debugging as well as OEM Unlocking. The former will be used to make your device get recognized by your PC in the ADB Mode. The latter will allow us to unlock the device’s bootloader. Here are the required instructions to enable both 
 of them:**
 
-* 1. Head over to Settings on your Xiaomi device
+* 1.Head over to Settings on your Xiaomi device
 * 2.Then go to About Phone and tap on the MIUI version 7 times.
 * 3.Then go back to Settings and tap on Additional Settings System.
 * 3.Within that, head over to Developer Options and enable both the USB Debugging and OEM Unlock toggles.
