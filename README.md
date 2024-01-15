@@ -1,4 +1,36 @@
 # Miui-bootlooder-unlock
+<p align="center">
+<a href="#"><img title="Made in BANGLADESH" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-SCRIPT?colorA=%23ff0000&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="#"><img title="Tool Name" src="https://img.shields.io/badge/Toffee channel bypass-green.svg"></a>
+<a href="#"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+</p>
+</p>
+<p align="center">
+<a href="https://github.com/Gtajsan"><img title="Github" src="https://img.shields.io/badge/Gtajisan-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://gmail.google.com/gmail/?view=cm&fs=1&to=ffjisan804@gmail.com"><img title="Gmail" src="https://img.shields.io/badge/Gmail-FARHAN MUH TASIM-green?style=for-the-badge&logo=Gmail"></a>
+</p>
+<p align="center">
+<a href="https://github.com/Gtajisan"><img title="Followers" src="https://img.shields.io/github/followers/Gtajisan?color=blue&style=flat-square"></a>
+<a href="https://github.com/Gtajisan"><img title="Stars" src="https://img.shields.io/github/stars/Gtajisan/Toffee-channel-bypass?color=red&style=flat-square"></a>
+<a href="https://github.com/Gtajisan"><img title="Forks" src="https://img.shields.io/github/forks/Gtajisan/Toffee-channel-bypass?color=red&style=flat-square"></a>
+<a href="https://github.com/Gtajisan"><img title="Watching" src="https://img.shields.io/github/watchers/Gtajisan/Toffee-channel-bypass?label=Watchers&color=blue&style=flat-square"></a>
+
+<p align="center">  
+<a href="#"><img title="Language" src="https://img.shields.io/badge/Language-black?style=for-the-badge&logo=termux"></a>
+</p>
+
+<p align="center">
+ <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/>
+ </div>
+</p>
+<p align="center">  <a href="https://t.me/teamrxs"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
+<h1 align="center">
+ <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee"><img src="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/images/banner.jpeg"></a>
+</h1>
+
+
 ### STEP 1: Enable USB Debugging and OEM Unlocking
 **To begin with, you will have to enable USB Debugging as well as OEM Unlocking. The former will be used to make your device get recognized by your PC in the ADB Mode. The latter will allow us to unlock the device’s bootloader. Here are the required instructions to enable both 
 of them:**
