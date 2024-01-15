@@ -1,5 +1,7 @@
 # Miui-bootlooder-unlock
-**bootlooder unlock without time loss bypass 168 hours 💖😼**
+<p align="center">
+        bootlooder unlock without time loss bypass 168 hours 💖😼
+ </p>
 <p align="center">
 <a href="#"><img title="Made in BANGLADESH" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-SCRIPT?colorA=%23ff0000&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
