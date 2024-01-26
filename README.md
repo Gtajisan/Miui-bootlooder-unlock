@@ -38,7 +38,32 @@
 ![devoleper](https://i.postimg.cc/qv98KBBh/Picsart-24-01-21-17-10-57-234.png)
 
 ### download link
-* [download](https://www.mediafire.com/file/w8awly6utxqxkvd/mi_unlock_tool_crack.rar/file) enjoy 😁🔥
+FARHAN-MUH-TASIM #Unlock #tool
+
+MI Unlock tool crack
+
+- [Download](https://www.mediafire.com/file/hbfnl387x33fjq8/mi+unlock+tool+crack.zip/file)
+
+Features:
+
+Bypass the waiting time of 168 Hours.
+
+Password: FARHAN-MUH-TASIM
+
+Tested Devices:
+
+* Poco F1
+
+* Redmi BA Dual
+
+* Redmi BA
+
+* K20 Pro
+
+In some case users might not recieve OTP while verification of Mi account in the Mi unlock tool, so to solve this Connect to a verified VPN and restart the tool and check your SMS section and whatsapp for OTP. The number from which you created Mi account should be recharged and packed to receive an OTP, if not then you can change your number with a new number in Xiaomi Cloud website,
+
+Note, Maximum Limit of OTP for a day is 3-5 and if you exceed the limit then wait for another 24 hours to receive next OTP.
+
 
 ### STEP 1: Enable USB Debugging and OEM Unlocking
 **To begin with, you will have to enable USB Debugging as well as OEM Unlocking. The former will be used to make your device get recognized by your PC in the ADB Mode. The latter will allow us to unlock the device’s bootloader. Here are the required instructions to enable both 
