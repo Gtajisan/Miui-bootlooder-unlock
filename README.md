@@ -35,7 +35,7 @@
 </h1>
 
 ### modified developr
-![devoleper](https://i.postimg.cc/qv98KBBh/Picsart-24-01-21-17-10-57-234.png)
+**it's me Farhan**
 
 ### download link
 FARHAN-MUH-TASIM #Unlock #tool
@@ -54,11 +54,9 @@ Password: FARHAN-MUH-TASIM
 Tested Devices:
 
 * Poco F1
-
-* Redmi BA Dual
-
-* Redmi BA
-
+* Redmi 8A Dual
+* Redmi 8A
+* redmi 8
 * K20 Pro
 
 In some case users might not recieve OTP while verification of Mi account in the Mi unlock tool, so to solve this Connect to a verified VPN and restart the tool and check your SMS section and whatsapp for OTP. The number from which you created Mi account should be recharged and packed to receive an OTP, if not then you can change your number with a new number in Xiaomi Cloud website,
